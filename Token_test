@@ -1,0 +1,32 @@
+
+
+AUTH0_DOMAIN = final-projct.auth0.com
+API_AUDIENCE = casting
+
+
+
+assisant =    eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IlZGdXp6TWVVRnQ3b052UDV3MGFaUiJ9.eyJpc3MiOiJodHRwczovL2ZpbmFsLXByb2pjdC5hdXRoMC5jb20vIiwic3ViIjoiYXV0aDB8NWVhMDIzMjljN
+              jJkYTIwYzhjYTBjMzQ4IiwiYXVkIjoiY2FzdGluZyIsImlhdCI6MTU4NzU4NzU3MywiZXhwIjoxNTg3NjczOTczLCJhenAiOiJmcVVlZVFwN0NpY0M4cFZGZk56SWRrU1FwMEJ2RlN0dyIsInNjb3BlIjoiIiwicGVybWlzc2lvbnM
+              iOlsiZ2V0OmFjdG9ycyIsImdldDptb3ZpZXMiXX0.UShzRnOUIpdxBfRLhvHZ88ELVVQ2mh6f1w_3iizl6bYIgyJ1Vw2Rmf0BPKmimO53tNAwA6sQad3gMNDPOAfiFiieoyvDYKx1ppLS_iCAKYh_MjL1sCf2RwV2iSPV5inmsanibT
+              v85W82NNWoHvVfrepPYJHchwcRoQJqZIkfLvt-JSQSv1q6UeSVaVnUKx5jg7R56LBGXJL6LAzOEllb3u0tZyinWmwaXtVHxgEYUhXq59VTSZln6uIHn9UsYgthK
+
+
+
+
+
+
+director_token = eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IlZGdXp6TWVVRnQ3b052UDV3MGFaUiJ9.eyJpc3MiOiJodHRwczovL
+                2ZpbmFsLXByb2pjdC5hdXRoMC5jb20vIiwic3ViIjoiYXV0aDB8NWVhMDIzOWVjNjJkYTIwYzhjYTBjNDk3IiwiYXVkIjoiY2FzdGluZyIsImlhdCI6MT
+                U4NzU4NzQ3MCwiZXhwIjoxNTg3NjczODcwLCJhenAiOiJmcVVlZVFwN0NpY0M4cFZGZk56SWRrU1FwMEJ2RlN0dyIsInNjb3BlIjoiIiwicGVybWlzc2lvbn
+                MiOlsiYWRkOmFjdG9yIiwiZGVsZXRlOmFjdG9yIiwiZ2V0OmFjdG9ycyIsImdldDptb3ZpZXMiLCJwYXRjaDphY3RvciIsInBhdGNoOm1vdmllIl19.QhotbXSwJ
+                QgGqT2CseorJGmfGwCnscvdnSyGYSW-iycKmQfYI9s02Ea3wQbPK2HkxDBnp06aj2uY8eR_im-qg-zvW1W6zaejo8HqTMxYJc-5PnS5G7pXXVi6wYlVVUttxrPTThc
+                YZQOOWslYLANRx3GhmsH7tfdcaW-p1V0eAM1dqdCkq3jwCiGuq1N3xi4-95vrpKtjFeJpJORnLCZjMcp7U0EnVjklhTGfWD1ghea34tYaYcU9wspJrzrtb4pGt9WkN7d
+                QMPu3GGPR-KXfw67YbCHGF-uhJXJ7IG19D0sjRkjJlDzfFAYQ1UvwjQgjwBloIo2HYCTCKJPi4XSsxA
+
+
+
+producer = eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IlZGdXp6TWVVRnQ3b052UDV3MGFaUiJ9.eyJpc3MiOiJodHRwczovL2ZpbmFsLXByb2pjdC5hdXRoMC5jb20vIiwic3ViIjoiYXV0aDB8NWVhMDIzZTczOWQ5NDYwY2
+           EwOTEwMmQ1IiwiYXVkIjoiY2FzdGluZyIsImlhdCI6MTU4NzU4NzM3MSwiZXhwIjoxNTg3NjczNzcxLCJhenAiOiJmcVVlZVFwN0NpY0M4cFZGZk56SWRrU1FwMEJ2RlN0dyIsInNjb3BlIjoiIiwicGVybWlzc2lvbnMiOlsiYWRkOmFjdG9yI
+          iwiYWRkOm1vdmllIiwiZGVsZXRlOmFjdG9yIiwiZGVsZXRlOm1vdmllIiwiZ2V0OmFjdG9ycyIsImdldDptb3ZpZXMiLCJwYXRjaDphY3RvciIsInBhdGNoOm1vdmllIl19.pFiQIjzZYdCJkCK2uJhOCDGdTtrxUpyoK6WSY5PcJWYOS9rQzhCT
+         kPWsUS9PU_IjkWdYHQx4AfbcyyzTvCIqCuPDVY24DSHe-2GyrSXxJfnT2cg-7EoqaVWzW1WKgGkXAGTf-apHuzWS1X1WXxQ5qMsbTqx_Sm8_N-l6Kpt3Lf7z9XPOlO-6nNvTRORGkIeYU81aUoNNHDGhVpNqERFfCCf4lnRL04lZ-Q1eHgxj5jal5
+          hE6AmHLo7TqgB8nTsH0VIHbgfby5pNwB-6Wu-sia4Kvy7WxtuLdai4BU_0_497zhDmNDaS-9fRpsuDT1aHVIrJ6_T7GU-LhQV8pKGdh4w

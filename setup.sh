@@ -1,0 +1,42 @@
+DATABASE_URL = sqlite:///casting_test.db
+SECRET_KEY = 123456789
+
+
+AUTH0_DOMAIN = final-projct.auth0.com
+API_AUDIENCE = casting
+
+
+
+
+
+DIRECTOR = eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IlZGdXp6TWVVRnQ3b052UDV3MGFaUiJ9.
+           eyJpc3MiOiJodHRwczovL2ZpbmFsLXByb2pjdC5hdXRoMC5jb20vIiwic3ViIjoiYXV0aDB8NWVhMDIzOWVjNjJkYTIwYzhjYTBjNDk3IiwiYXVkIjoiY2FzdGluZyIsImlhdCI6MTU4NzU2NDAxMywiZXhwIjoxNTg3NTcxMjEzLCJhenAiOiJmcVVlZVFwN0NpY0M4cFZGZk56SWRrU1FwMEJ2RlN0dyIsInNjb3BlIjoiIiwicGVybWlzc2lvbnMiOlsiYWRkOmFjdG9yIiwiZGVsZXRlOmFjdG9yIiwiZ2V0OmFjdG9ycyIsImdldDptb3ZpZXMiLCJwYXRjaDphY3RvciIsInBhdGNoOm1vdmllIl19.XXz544m5qA1N-wNHJeSUCK65sn8uCBQD2brKtTeX_
+           _EK5Kih9M5vfxiTQECYqqMnmiu47UlyZN2QacIlk2fpmUmqMKk86rmS-Ke1T_sHDW7pUB5TJLDrARh_sBjSIrDuq
+           VMeWYqp8sh96Cz6rVjGRZ4X7BUhBrp9Y0zphWu4jZyM6ZQZ8GFnOWl35TiVkzpNTc7b3gIeamw6KFYfdxSEfCBPW
+           kCHdiXnb9XG3BHcX78keqT8p7szRCnOjx3R-v5HAxTDbJBTYUJapbfj7yLLigr5mpOmtvduPq-15WV6zxhWe23jlG
+           UxqLb0Ghvl63f19o5NH_5e2d
+
+
+
+
+ASSISTANT = eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IlZGdXp6TWVVRnQ3b052UDV3MGFaUiJ9.
+            eyJpc3MiOiJodHRwczovL2ZpbmFsLXByb2pjdC5hdXRoMC5jb20vIiwic3ViIjoiYXV0aDB8NWVhMDIzMjljNjJkYTI
+            wYzhjYTBjMzQ4IiwiYXVkIjoiY2FzdGluZyIsImlhdCI6MTU4NzU2NDU3MiwiZXhwIjoxNTg3NTcxNzcyLCJhenAiOiJm
+            cVVlZVFwN0NpY0M4cFZGZk56SWRrU1FwMEJ2RlN0dyIsInNjb3BlIjoiIiwicGVybWlzc2lvbnMiOlsiZ2V0OmFjdG9yc
+            yIsImdldDptb3ZpZXMiXX0.H7BDFN7SJOCrWDPSYvJEW9lQDLqfQO6r62wo11OlBTAutZ5Wv39XfRrLHzU2l12FVq4ehKZ
+            eVCcp4TbLsj0K7P3WQ6r6U_Pst8JRYrdmNbBqVVYCjUf8yMUjQCUQMxOZ3oVdZxAS8xTuJ42sLYL7lpoq1KksUwWWccy1Ge
+            KPwUasryNXKh6clatoUCgSEniOf4JVqEGM_Ob2zn6hDWgoP7rNOsV5wjQclpQbsH1kX3ihfcFSUTRLiNUhpqaKkr5-WbfSJ
+            daYaXG_XKI6AGHsetncpBtD0anmg-x3wXqqd1rfOKOBfoq2p6ledVDaUYAh9rjDugfEk1KIKeeCZr5tag
+
+
+
+
+PRODUCER = eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IlZGdXp6TWVVRnQ3b052UDV3MGFaUiJ9.
+          eyJpc3MiOiJodHRwczovL2ZpbmFsLXByb2pjdC5hdXRoMC5jb20vIiwic3ViIjoiYXV0aDB8NWVhMDIzZTczOWQ5
+          NDYwY2EwOTEwMmQ1IiwiYXVkIjoiY2FzdGluZyIsImlhdCI6MTU4NzU2NDQyMSwiZXhwIjoxNTg3NTcxNjIxLCJhenAiOiJmc
+          VVlZVFwN0NpY0M4cFZGZk56SWRrU1FwMEJ2RlN0dyIsInNjb3BlIjoiIiwicGVybWlzc2lvbnMiOlsiYWRkOmFjdG9yIiwiYWRk
+          Om1vdmllIiwiZGVsZXRlOmFjdG9yIiwiZGVsZXRlOm1vdmllIiwiZ2V0OmFjdG9ycyIsImdldDptb3ZpZXMiLCJwYXRjaDphY3Rvc
+          iIsInBhdGNoOm1vdmllIl19.vlGNg6MkUL61OXZdm-TVS61mv1okT183QNzqfYOEeadFTYle-Jez0EkAEoJxlgrin2AaAWT_2UEUnc6
+          Bszh6g5RQyXmYI--lODkzhAd0NohzWy_HhPQIdJUIipsI9ICtKX_a2lIMlbJ-sYkm2JeQQdZC8jnevE7qdbFmKOXP-XDpGRNQd8umGgD7_e
+          onboTb2ZQAp1t5xZHtCN09iUBFYcVUi7o3CpezJ-SlUxdEVEGqr2hzsEpEWdMg5hCLl2SCcmNzPPoJl3aLc
+          -ISQjCMxw3LXohSz7ojiorOqXJIoJyMSzpEGoaKyGQkWYpX_TMHtEJaN_FKXDPlJ4xVnS5MCg
